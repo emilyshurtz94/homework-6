@@ -1,0 +1,21 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.five-day{
+   display:inline-block;
+   text-align: center;
+}
+
+
+.low{
+    background-color: green
+};
+
+.medium{
+    background-color: yellow
+};
+
+.high{
+    background-color: red;
+}
